@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "4D921227-B3AD-42EE-A521-B98C925A3F57"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7595B5CF-DD7A-420D-8339-ABF51F84969A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConvertor/CurrencyVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "filterCountry(searchText:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7595B5CF-DD7A-420D-8339-ABF51F84969A - 32dbf19dc39a7bce"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConvertor.CurrencyVC.filterCountry(searchText: Swift.String) -&gt; ()"
+                  moduleName = "CurrencyConvertor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yadhukrishnane/Documents/works/swift/CurrencyConvertor/CurrencyConvertor/CurrencyVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "55">
+               </Location>
+               <Location
+                  uuid = "7595B5CF-DD7A-420D-8339-ABF51F84969A - 3beca74e553a1779"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CurrencyConvertor.Country) -&gt; Swift.Bool in CurrencyConvertor.CurrencyVC.filterCountry(searchText: Swift.String) -&gt; ()"
+                  moduleName = "CurrencyConvertor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yadhukrishnane/Documents/works/swift/CurrencyConvertor/CurrencyConvertor/CurrencyVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "118"
+                  endingLineNumber = "118"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
